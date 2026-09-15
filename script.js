@@ -1649,6 +1649,17 @@ async function loadRecipes() {
         recipes = await response.json();
         recipesReady = true;
 
+        // Update recipe count automatically
+        const recipeCountText = document.getElementById("recipeCountText");
+
+        if (recipeCountText) {
+            if (currentLanguage === "zh") {
+                recipeCountText.textContent = `${recipes.length} 道精选食谱`;
+            } else {
+                recipeCountText.textContent = `${recipes.length} hand-picked recipes`;
+            }
+        }
+
         if (findRecipesBtn) {
             findRecipesBtn.disabled = false;
         }

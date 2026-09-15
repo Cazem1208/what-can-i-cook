@@ -2298,7 +2298,8 @@
           "鸡肉切片，将酱油和麻油混合成简单蘸酱。",
           "鸡肉配香饭和黄瓜一起享用，蘸酱另放。"
         ],
-        "time": 55
+        "time": 55,
+        "video": "https://www.youtube.com/results?search_query=Hainanese+Chicken+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
     }
   },
@@ -2441,7 +2442,8 @@
           "打开锅盖收汁至酱汁有光泽并稍浓，试味后才决定是否加盐。",
           "趁热配白饭享用。"
         ],
-        "time": 35
+        "time": 35,
+        "video": "https://www.youtube.com/results?search_query=Ayam+Masak+Kicap+Frying+Pan+recipe+tutorial"
       }
     }
   },
@@ -2573,7 +2575,8 @@
           "加入粿条和酱汁，大火快速翻炒2–3分钟。",
           "加入豆芽再炒30–45秒，马上享用。"
         ],
-        "time": 20
+        "time": 20,
+        "video": "https://www.youtube.com/results?search_query=Char+Kway+Teow+Frying+Pan+recipe+tutorial"
       }
     }
   },
@@ -2733,7 +2736,8 @@
           "加入面条和酱汁，大火翻炒2–3分钟。",
           "加入豆芽炒30秒，最后挤入青柠汁。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Mee+Goreng+Mamak+Frying+Pan+recipe+tutorial"
       }
     }
   },
@@ -2887,7 +2891,8 @@
           "面条和豆芽分别焯熟后放入碗中。",
           "倒入热咖喱汤，马上享用。"
         ],
-        "time": 40
+        "time": 40,
+        "video": "https://www.youtube.com/results?search_query=Curry+Mee+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
     }
   },
@@ -3005,7 +3010,8 @@
           "加入番茄、糖、醋和盐，煮至番茄变软。",
           "放回苏东快速翻炒30–60秒，立即关火。"
         ],
-        "time": 20
+        "time": 20,
+        "video": "https://www.youtube.com/results?search_query=Sambal+Sotong+Frying+Pan+recipe+tutorial"
       }
     }
   },
@@ -3123,7 +3129,8 @@
           "黄瓜切片。",
           "椰浆饭搭配参巴酱、鸡蛋和黄瓜享用。"
         ],
-        "time": 35
+        "time": 35,
+        "video": "https://www.youtube.com/results?search_query=Nasi+Lemak+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
     }
   },
@@ -3248,7 +3255,8 @@
           "加入米粉和酱汁翻炒至均匀入味并热透。",
           "加入豆芽再炒30秒即可。"
         ],
-        "time": 20
+        "time": 20,
+        "video": "https://www.youtube.com/results?search_query=Fried+Bee+Hoon+Frying+Pan+recipe+tutorial"
       }
     }
   },
@@ -3352,7 +3360,8 @@
           "铺上青葱并淋上酱油汁。",
           "食油加热至微微冒烟，谨慎淋在青葱上，马上享用。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Steamed+Soy+Sauce+Fish+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
     }
   },
@@ -3470,7 +3479,8 @@
           "把酱油沿锅边加入，快速翻炒。",
           "加入虾、青葱、白胡椒和麻油，再炒30秒即可。"
         ],
-        "time": 18
+        "time": 18,
+        "video": "https://www.youtube.com/results?search_query=Prawn+Fried+Rice+Frying+Pan+recipe+tutorial"
       }
     }
   },
@@ -3592,7 +3602,8 @@
           "倒入酱汁，轻轻翻拌豆腐至酱汁有光泽。",
           "撒上青葱，配饭享用。"
         ],
-        "time": 20
+        "time": 20,
+        "video": "https://www.youtube.com/results?search_query=Garlic+Soy+Tofu+Frying+Pan+recipe+tutorial"
       }
     }
   },
@@ -3710,7 +3721,8 @@
           "加入番茄、糖和盐，煮至番茄变软。",
           "放回鸡肉和马铃薯翻炒2–3分钟至熟透并裹上酱汁。"
         ],
-        "time": 30
+        "time": 30,
+        "video": "https://www.youtube.com/results?search_query=Chicken+Potato+Sambal+Frying+Pan+recipe+tutorial"
       }
     }
   },
@@ -3828,7 +3840,8 @@
           "放回虾再炒1分钟。",
           "倒入蛋液轻轻翻拌至刚凝固，最后加入麻油和青葱。"
         ],
-        "time": 18
+        "time": 18,
+        "video": "https://www.youtube.com/results?search_query=Tomato+Prawn+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
     }
   },
@@ -3906,8 +3919,13 @@
           "鸡翅单层放入，炸18–22分钟，中途翻面，至上色且最厚处达到74°C。",
           "静置3分钟后享用。"
         ],
-        "time": 30
+        "time": 30,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Soy+Chicken+Wings+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Soy+Chicken+Wings+recipe+tutorial",
+      "title": "Air Fryer Soy Chicken Wings Recipe Tutorial"
     }
   },
   {
@@ -3984,8 +4002,13 @@
           "以200°C炸18–22分钟，期间摇动两次，至熟透香脆。",
           "按口味调味，趁热享用。"
         ],
-        "time": 28
+        "time": 28,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Potato+Wedges+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Potato+Wedges+recipe+tutorial",
+      "title": "Air Fryer Potato Wedges Recipe Tutorial"
     }
   },
   {
@@ -4062,8 +4085,13 @@
           "以190°C炸14–16分钟，中途摇一次，至香脆。",
           "混合酱油、蒜和麻油；上桌前拌入热豆腐。"
         ],
-        "time": 24
+        "time": 24,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Crispy+Tofu+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Crispy+Tofu+recipe+tutorial",
+      "title": "Air Fryer Crispy Tofu Recipe Tutorial"
     }
   },
   {
@@ -4140,8 +4168,13 @@
           "以190°C炸8–11分钟，至鱼肉容易剥落并熟透。",
           "静置2分钟后享用。"
         ],
-        "time": 16
+        "time": 16,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Garlic+Salmon+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Garlic+Salmon+recipe+tutorial",
+      "title": "Air Fryer Garlic Salmon Recipe Tutorial"
     }
   },
   {
@@ -4225,8 +4258,13 @@
           "加入蒜和黑胡椒炒30秒。",
           "加入意面和适量面水拌成轻酱汁，调味后享用。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Garlic+Mushroom+Pasta+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Garlic+Mushroom+Pasta+recipe+tutorial",
+      "title": "Garlic Mushroom Pasta Recipe Tutorial"
     }
   },
   {
@@ -4317,8 +4355,13 @@
           "胡萝卜和西兰花加少许水炒至脆嫩。",
           "放回鸡肉，加入蒜、酱油和蚝油翻炒至鸡肉达到74°C。"
         ],
-        "time": 22
+        "time": 22,
+        "video": "https://www.youtube.com/results?search_query=Chicken+Vegetable+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Chicken+Vegetable+Stir-Fry+recipe+tutorial",
+      "title": "Chicken Vegetable Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -4409,8 +4452,13 @@
           "热锅快速煎炒牛肉至上色。",
           "加入蒜、西兰花、剩余酱油、蚝油和黑胡椒，炒至牛肉达到喜欢的熟度。"
         ],
-        "time": 23
+        "time": 23,
+        "video": "https://www.youtube.com/results?search_query=Beef+%26+Broccoli+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Beef+%26+Broccoli+Stir-Fry+recipe+tutorial",
+      "title": "Beef & Broccoli Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -4494,8 +4542,13 @@
           "倒入蛋液，小火慢慢推动至刚凝固。",
           "撒上葱花，立即享用。"
         ],
-        "time": 15
+        "time": 15,
+        "video": "https://www.youtube.com/results?search_query=Silky+Egg+%26+Tofu+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Silky+Egg+%26+Tofu+Stir-Fry+recipe+tutorial",
+      "title": "Silky Egg & Tofu Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -4579,8 +4632,13 @@
           "鸡肉和蘑菇铺在米上，启动普通煮饭程序。",
           "完成后确认鸡肉达到74°C，翻松米饭，静置5分钟后享用。"
         ],
-        "time": 45
+        "time": 45,
+        "video": "https://www.youtube.com/results?search_query=Rice+Cooker+Mushroom+Chicken+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Rice+Cooker+Mushroom+Chicken+Rice+recipe+tutorial",
+      "title": "Rice Cooker Mushroom Chicken Rice Recipe Tutorial"
     }
   },
   {
@@ -4664,8 +4722,13 @@
           "按普通煮饭程序煮熟，再把番茄压碎拌入米饭。",
           "上桌前配煎蛋或水煮蛋，并撒上葱花。"
         ],
-        "time": 40
+        "time": 40,
+        "video": "https://www.youtube.com/results?search_query=Rice+Cooker+Tomato+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Rice+Cooker+Tomato+Rice+recipe+tutorial",
+      "title": "Rice Cooker Tomato Rice Recipe Tutorial"
     }
   },
   {
@@ -4749,8 +4812,13 @@
           "加入鸡肉薄片和姜丝，煮至鸡肉达到74°C。",
           "用盐和酱油调味，最后撒上葱花。"
         ],
-        "time": 50
+        "time": 50,
+        "video": "https://www.youtube.com/results?search_query=Ginger+Chicken+Congee+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Ginger+Chicken+Congee+recipe+tutorial",
+      "title": "Ginger Chicken Congee Recipe Tutorial"
     }
   },
   {
@@ -4834,8 +4902,13 @@
           "用煮饭或蒸煮功能蒸12–15分钟至刚凝固，避免水剧烈沸腾。",
           "淋上酱油、麻油，撒上葱花。"
         ],
-        "time": 22
+        "time": 22,
+        "video": "https://www.youtube.com/results?search_query=Rice+Cooker+Steamed+Egg+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Rice+Cooker+Steamed+Egg+recipe+tutorial",
+      "title": "Rice Cooker Steamed Egg Recipe Tutorial"
     }
   },
   {
@@ -4912,8 +4985,13 @@
           "单层放入炸17–21分钟，中途摇动或翻面。",
           "将鸡肉煮至74°C后趁热享用。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Lemon+Chicken+Bites+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Lemon+Chicken+Bites+recipe+tutorial",
+      "title": "Lemon Chicken Bites Recipe Tutorial"
     }
   },
   {
@@ -4990,8 +5068,13 @@
           "单层放入炸22–26分钟，中途摇动或翻面。",
           "将鸡肉煮至74°C后趁热享用。"
         ],
-        "time": 30
+        "time": 30,
+        "video": "https://www.youtube.com/results?search_query=Curry+Chicken+Bites+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Curry+Chicken+Bites+recipe+tutorial",
+      "title": "Curry Chicken Bites Recipe Tutorial"
     }
   },
   {
@@ -5068,8 +5151,13 @@
           "单层放入炸20–24分钟，中途摇动或翻面。",
           "将猪肉煮至63°C and rest 3 minutes后趁热享用。"
         ],
-        "time": 28
+        "time": 28,
+        "video": "https://www.youtube.com/results?search_query=Paprika+Pork+Bites+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Paprika+Pork+Bites+recipe+tutorial",
+      "title": "Paprika Pork Bites Recipe Tutorial"
     }
   },
   {
@@ -5146,8 +5234,13 @@
           "单层放入炸10–14分钟，中途摇动或翻面。",
           "将虾煮至opaque后趁热享用。"
         ],
-        "time": 18
+        "time": 18,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Prawn+%26+Broccoli+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Prawn+%26+Broccoli+recipe+tutorial",
+      "title": "Air Fryer Prawn & Broccoli Recipe Tutorial"
     }
   },
   {
@@ -5224,8 +5317,13 @@
           "单层放入炸12–16分钟，中途摇动或翻面。",
           "将豆腐煮至hot throughout后趁热享用。"
         ],
-        "time": 20
+        "time": 20,
+        "video": "https://www.youtube.com/results?search_query=Sesame+Tofu+Bites+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Sesame+Tofu+Bites+recipe+tutorial",
+      "title": "Sesame Tofu Bites Recipe Tutorial"
     }
   },
   {
@@ -5302,8 +5400,13 @@
           "单层放入炸12–16分钟，中途摇动或翻面。",
           "将鱼煮至63°C后趁热享用。"
         ],
-        "time": 20
+        "time": 20,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Fish+%26+Tomato+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Fish+%26+Tomato+recipe+tutorial",
+      "title": "Air Fryer Fish & Tomato Recipe Tutorial"
     }
   },
   {
@@ -5380,8 +5483,13 @@
           "单层放入炸12–16分钟，中途摇动或翻面。",
           "将三文鱼煮至63°C后趁热享用。"
         ],
-        "time": 20
+        "time": 20,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Salmon+%26+Carrot+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Salmon+%26+Carrot+recipe+tutorial",
+      "title": "Air Fryer Salmon & Carrot Recipe Tutorial"
     }
   },
   {
@@ -5458,8 +5566,13 @@
           "单层放入炸16–20分钟，中途摇动或翻面。",
           "将红薯煮至软嫩后趁热享用。"
         ],
-        "time": 24
+        "time": 24,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Sweet+Potato+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Sweet+Potato+recipe+tutorial",
+      "title": "Air Fryer Sweet Potato Recipe Tutorial"
     }
   },
   {
@@ -5536,8 +5649,13 @@
           "单层放入炸12–16分钟，中途摇动或翻面。",
           "将豆腐煮至hot throughout后趁热享用。"
         ],
-        "time": 20
+        "time": 20,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Mushroom+Tofu+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Mushroom+Tofu+recipe+tutorial",
+      "title": "Air Fryer Mushroom Tofu Recipe Tutorial"
     }
   },
   {
@@ -5614,8 +5732,13 @@
           "单层放入炸16–20分钟，中途摇动或翻面。",
           "将鸡肉煮至74°C后趁热享用。"
         ],
-        "time": 24
+        "time": 24,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Corn+Chicken+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Corn+Chicken+recipe+tutorial",
+      "title": "Air Fryer Corn Chicken Recipe Tutorial"
     }
   },
   {
@@ -5692,8 +5815,13 @@
           "单层放入炸17–21分钟，中途摇动或翻面。",
           "将猪肉煮至63°C and rest 3 minutes后趁热享用。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Pork+Cabbage+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Pork+Cabbage+recipe+tutorial",
+      "title": "Air Fryer Pork Cabbage Recipe Tutorial"
     }
   },
   {
@@ -5770,8 +5898,13 @@
           "单层放入炸10–14分钟，中途摇动或翻面。",
           "将蘑菇煮至软嫩后趁热享用。"
         ],
-        "time": 18
+        "time": 18,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Garlic+Mushrooms+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Garlic+Mushrooms+recipe+tutorial",
+      "title": "Air Fryer Garlic Mushrooms Recipe Tutorial"
     }
   },
   {
@@ -5848,8 +5981,13 @@
           "单层放入炸12–16分钟，中途摇动或翻面。",
           "将豆腐煮至hot throughout后趁热享用。"
         ],
-        "time": 20
+        "time": 20,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Tomato+Tofu+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Tomato+Tofu+recipe+tutorial",
+      "title": "Air Fryer Tomato Tofu Recipe Tutorial"
     }
   },
   {
@@ -5926,8 +6064,13 @@
           "单层放入炸15–19分钟，中途摇动或翻面。",
           "将鸡肉煮至74°C后趁热享用。"
         ],
-        "time": 23
+        "time": 23,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Chicken+Bok+Choy+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Chicken+Bok+Choy+recipe+tutorial",
+      "title": "Air Fryer Chicken Bok Choy Recipe Tutorial"
     }
   },
   {
@@ -6004,8 +6147,13 @@
           "单层放入炸10–14分钟，中途摇动或翻面。",
           "将牛肉煮至63°C and rest 3 minutes后趁热享用。"
         ],
-        "time": 18
+        "time": 18,
+        "video": "https://www.youtube.com/results?search_query=Air+Fryer+Beef+Broccoli+Air+Fryer+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Air+Fryer+Beef+Broccoli+recipe+tutorial",
+      "title": "Air Fryer Beef Broccoli Recipe Tutorial"
     }
   },
   {
@@ -6082,8 +6230,13 @@
           "加入小白菜和蒜，炒至脆嫩。",
           "加入酱油，炒至猪肉63°C and rest 3 minutes。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Ginger+Pork+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Ginger+Pork+Stir-Fry+recipe+tutorial",
+      "title": "Ginger Pork Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -6160,8 +6313,13 @@
           "加入包菜和蒜，炒至脆嫩。",
           "加入酱油，炒至牛肉63°C and rest 3 minutes。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Beef+Cabbage+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Beef+Cabbage+Stir-Fry+recipe+tutorial",
+      "title": "Beef Cabbage Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -6238,8 +6396,13 @@
           "加入菠菜和蒜，炒至脆嫩。",
           "加入酱油，炒至鸡肉74°C。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Chicken+Spinach+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Chicken+Spinach+Stir-Fry+recipe+tutorial",
+      "title": "Chicken Spinach Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -6316,8 +6479,13 @@
           "加入番茄和蒜，炒至脆嫩。",
           "加入酱油，炒至虾opaque。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Prawn+Tomato+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Prawn+Tomato+Stir-Fry+recipe+tutorial",
+      "title": "Prawn Tomato Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -6394,8 +6562,13 @@
           "加入小白菜和蒜，炒至脆嫩。",
           "加入酱油，炒至鱼63°C。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Fish+Bok+Choy+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Fish+Bok+Choy+Stir-Fry+recipe+tutorial",
+      "title": "Fish Bok Choy Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -6472,8 +6645,13 @@
           "加入包菜和蒜，炒至脆嫩。",
           "加入酱油，炒至豆腐hot throughout。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Tofu+Cabbage+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Tofu+Cabbage+Stir-Fry+recipe+tutorial",
+      "title": "Tofu Cabbage Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -6550,8 +6728,13 @@
           "加入蘑菇和蒜，炒至脆嫩。",
           "加入酱油，炒至鸡蛋set。"
         ],
-        "time": 15
+        "time": 15,
+        "video": "https://www.youtube.com/results?search_query=Egg+Mushroom+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Egg+Mushroom+Stir-Fry+recipe+tutorial",
+      "title": "Egg Mushroom Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -6628,8 +6811,13 @@
           "加入菠菜和蒜，炒至脆嫩。",
           "加入酱油，炒至鸡蛋set。"
         ],
-        "time": 15
+        "time": 15,
+        "video": "https://www.youtube.com/results?search_query=Egg+Spinach+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Egg+Spinach+Stir-Fry+recipe+tutorial",
+      "title": "Egg Spinach Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -6706,8 +6894,13 @@
           "加入胡萝卜和蒜，炒至脆嫩。",
           "加入酱油，炒至鸡肉74°C。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Chicken+Carrot+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Chicken+Carrot+Stir-Fry+recipe+tutorial",
+      "title": "Chicken Carrot Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -6784,8 +6977,13 @@
           "加入西兰花和蒜，炒至脆嫩。",
           "加入酱油，炒至猪肉63°C and rest 3 minutes。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Pork+Broccoli+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Pork+Broccoli+Stir-Fry+recipe+tutorial",
+      "title": "Pork Broccoli Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -6862,8 +7060,13 @@
           "加入番茄和蒜，炒至脆嫩。",
           "加入酱油，炒至牛肉63°C and rest 3 minutes。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Beef+Tomato+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Beef+Tomato+Stir-Fry+recipe+tutorial",
+      "title": "Beef Tomato Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -6940,8 +7143,13 @@
           "加入包菜和蒜，炒至脆嫩。",
           "加入酱油，炒至虾opaque。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Prawn+Cabbage+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Prawn+Cabbage+Stir-Fry+recipe+tutorial",
+      "title": "Prawn Cabbage Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -7018,8 +7226,13 @@
           "加入菠菜和蒜，炒至脆嫩。",
           "加入酱油，炒至三文鱼63°C。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Salmon+Spinach+Pan+Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Salmon+Spinach+Pan+Fry+recipe+tutorial",
+      "title": "Salmon Spinach Pan Fry Recipe Tutorial"
     }
   },
   {
@@ -7096,8 +7309,13 @@
           "加入西兰花和蒜，炒至脆嫩。",
           "加入酱油，炒至豆腐hot throughout。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Tofu+Broccoli+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Tofu+Broccoli+Stir-Fry+recipe+tutorial",
+      "title": "Tofu Broccoli Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -7174,8 +7392,13 @@
           "加入蘑菇和蒜，炒至脆嫩。",
           "加入酱油，炒至鸡肉74°C。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Chicken+Mushroom+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Chicken+Mushroom+Stir-Fry+recipe+tutorial",
+      "title": "Chicken Mushroom Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -7252,8 +7475,13 @@
           "加入土豆和蒜，炒至脆嫩。",
           "加入酱油，炒至猪肉63°C and rest 3 minutes。"
         ],
-        "time": 30
+        "time": 30,
+        "video": "https://www.youtube.com/results?search_query=Pork+Potato+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Pork+Potato+Stir-Fry+recipe+tutorial",
+      "title": "Pork Potato Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -7330,8 +7558,13 @@
           "加入胡萝卜和蒜，炒至脆嫩。",
           "加入酱油，炒至牛肉63°C and rest 3 minutes。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Beef+Carrot+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Beef+Carrot+Stir-Fry+recipe+tutorial",
+      "title": "Beef Carrot Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -7408,8 +7641,13 @@
           "加入菠菜和蒜，炒至脆嫩。",
           "加入酱油，炒至虾opaque。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Prawn+Spinach+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Prawn+Spinach+Stir-Fry+recipe+tutorial",
+      "title": "Prawn Spinach Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -7486,8 +7724,13 @@
           "加入蘑菇和蒜，炒至脆嫩。",
           "加入酱油，炒至鱼63°C。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Fish+Mushroom+Pan+Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Fish+Mushroom+Pan+Fry+recipe+tutorial",
+      "title": "Fish Mushroom Pan Fry Recipe Tutorial"
     }
   },
   {
@@ -7564,8 +7807,13 @@
           "加入小白菜和蒜，炒至脆嫩。",
           "加入酱油，炒至豆腐hot throughout。"
         ],
-        "time": 25
+        "time": 25,
+        "video": "https://www.youtube.com/results?search_query=Tofu+Bok+Choy+Stir-Fry+Frying+Pan+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Tofu+Bok+Choy+Stir-Fry+recipe+tutorial",
+      "title": "Tofu Bok Choy Stir-Fry Recipe Tutorial"
     }
   },
   {
@@ -7649,8 +7897,13 @@
           "按普通煮饭程序煮熟，确认鸡肉74°C。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 45
+        "time": 45,
+        "video": "https://www.youtube.com/results?search_query=Chicken+Carrot+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Chicken+Carrot+Rice+recipe+tutorial",
+      "title": "Chicken Carrot Rice Recipe Tutorial"
     }
   },
   {
@@ -7734,8 +7987,13 @@
           "按普通煮饭程序煮熟，确认猪肉63°C and rest 3 minutes。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 45
+        "time": 45,
+        "video": "https://www.youtube.com/results?search_query=Pork+Mushroom+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Pork+Mushroom+Rice+recipe+tutorial",
+      "title": "Pork Mushroom Rice Recipe Tutorial"
     }
   },
   {
@@ -7819,8 +8077,13 @@
           "按普通煮饭程序煮熟，确认牛肉63°C and rest 3 minutes。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 45
+        "time": 45,
+        "video": "https://www.youtube.com/results?search_query=Beef+Broccoli+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Beef+Broccoli+Rice+recipe+tutorial",
+      "title": "Beef Broccoli Rice Recipe Tutorial"
     }
   },
   {
@@ -7904,8 +8167,13 @@
           "按普通煮饭程序煮熟，确认虾opaque。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 40
+        "time": 40,
+        "video": "https://www.youtube.com/results?search_query=Prawn+Tomato+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Prawn+Tomato+Rice+recipe+tutorial",
+      "title": "Prawn Tomato Rice Recipe Tutorial"
     }
   },
   {
@@ -7989,8 +8257,13 @@
           "按普通煮饭程序煮熟，确认豆腐hot throughout。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 40
+        "time": 40,
+        "video": "https://www.youtube.com/results?search_query=Tofu+Mushroom+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Tofu+Mushroom+Rice+recipe+tutorial",
+      "title": "Tofu Mushroom Rice Recipe Tutorial"
     }
   },
   {
@@ -8074,8 +8347,13 @@
           "按普通煮饭程序煮熟，确认鸡肉74°C。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 45
+        "time": 45,
+        "video": "https://www.youtube.com/results?search_query=Chicken+Cabbage+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Chicken+Cabbage+Rice+recipe+tutorial",
+      "title": "Chicken Cabbage Rice Recipe Tutorial"
     }
   },
   {
@@ -8159,8 +8437,13 @@
           "按普通煮饭程序煮熟，确认三文鱼63°C。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 40
+        "time": 40,
+        "video": "https://www.youtube.com/results?search_query=Salmon+Broccoli+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Salmon+Broccoli+Rice+recipe+tutorial",
+      "title": "Salmon Broccoli Rice Recipe Tutorial"
     }
   },
   {
@@ -8244,8 +8527,13 @@
           "按普通煮饭程序煮熟，确认猪肉63°C and rest 3 minutes。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 45
+        "time": 45,
+        "video": "https://www.youtube.com/results?search_query=Pork+Corn+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Pork+Corn+Rice+recipe+tutorial",
+      "title": "Pork Corn Rice Recipe Tutorial"
     }
   },
   {
@@ -8329,8 +8617,13 @@
           "按普通煮饭程序煮熟，确认牛肉63°C and rest 3 minutes。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 45
+        "time": 45,
+        "video": "https://www.youtube.com/results?search_query=Beef+Carrot+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Beef+Carrot+Rice+recipe+tutorial",
+      "title": "Beef Carrot Rice Recipe Tutorial"
     }
   },
   {
@@ -8414,8 +8707,13 @@
           "按普通煮饭程序煮熟，确认豆腐hot throughout。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 40
+        "time": 40,
+        "video": "https://www.youtube.com/results?search_query=Tofu+Bok+Choy+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Tofu+Bok+Choy+Rice+recipe+tutorial",
+      "title": "Tofu Bok Choy Rice Recipe Tutorial"
     }
   },
   {
@@ -8499,8 +8797,13 @@
           "按普通煮饭程序煮熟，确认鸡肉74°C。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 42
+        "time": 42,
+        "video": "https://www.youtube.com/results?search_query=Chicken+Spinach+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Chicken+Spinach+Rice+recipe+tutorial",
+      "title": "Chicken Spinach Rice Recipe Tutorial"
     }
   },
   {
@@ -8584,8 +8887,13 @@
           "按普通煮饭程序煮熟，确认虾opaque。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 40
+        "time": 40,
+        "video": "https://www.youtube.com/results?search_query=Prawn+Mushroom+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Prawn+Mushroom+Rice+recipe+tutorial",
+      "title": "Prawn Mushroom Rice Recipe Tutorial"
     }
   },
   {
@@ -8669,8 +8977,13 @@
           "按普通煮饭程序煮熟，确认鱼63°C。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 40
+        "time": 40,
+        "video": "https://www.youtube.com/results?search_query=Fish+Tomato+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Fish+Tomato+Rice+recipe+tutorial",
+      "title": "Fish Tomato Rice Recipe Tutorial"
     }
   },
   {
@@ -8754,8 +9067,13 @@
           "按普通煮饭程序煮熟，确认鸡蛋set。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 38
+        "time": 38,
+        "video": "https://www.youtube.com/results?search_query=Egg+Tomato+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Egg+Tomato+Rice+recipe+tutorial",
+      "title": "Egg Tomato Rice Recipe Tutorial"
     }
   },
   {
@@ -8839,8 +9157,13 @@
           "按普通煮饭程序煮熟，确认豆腐hot throughout。",
           "翻松后静置5分钟即可享用。"
         ],
-        "time": 40
+        "time": 40,
+        "video": "https://www.youtube.com/results?search_query=Tofu+Corn+Rice+Rice+Cooker+%2F+Pot+recipe+tutorial"
       }
+    },
+    "video": {
+      "url": "https://www.youtube.com/results?search_query=Tofu+Corn+Rice+recipe+tutorial",
+      "title": "Tofu Corn Rice Recipe Tutorial"
     }
   }
 ]
