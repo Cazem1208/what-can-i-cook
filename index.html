@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>What Can I Cook?</title>
+
+    <link rel="stylesheet" href="style.css?v=2">
+</head>
+
+
+<body>
+
+    <!-- =========================
+         HEADER
+    ========================== -->
+
+    <header class="header">
+
+        <div class="logo">
+            🍳 What Can I Cook?
+        </div>
+
+
+        <nav>
+
+            <a
+                href="#ingredients"
+                data-i18n="navIngredients">
+                Ingredients
+            </a>
+
+            <a
+                href="#recipes"
+                data-i18n="navRecipes">
+                Recipes
+            </a>
+
+        </nav>
+
+
+        <!-- Language Switch -->
+
+        <div class="language-switch">
+
+            <button
+                id="englishBtn"
+                class="language-btn active">
+                EN
+            </button>
+
+            <span>|</span>
+
+            <button
+                id="chineseBtn"
+                class="language-btn">
+                中文
+            </button>
+
+        </div>
+
+    </header>
+
+
+    <!-- =========================
+         HERO
+    ========================== -->
+
+    <section class="hero">
+
+        <div class="hero-orb hero-orb-one"></div>
+        <div class="hero-orb hero-orb-two"></div>
+
+        <div class="hero-layout">
+
+        <div class="hero-content">
+
+            <p
+                class="hero-tag"
+                data-i18n="heroTag">
+                YOUR PERSONAL RECIPE FINDER
+            </p>
+
+
+            <h1>
+                <span data-i18n="heroTitle1">
+                    What can you
+                </span>
+
+                <br>
+
+                <span data-i18n="heroTitle2">
+                    cook today?
+                </span>
+            </h1>
+
+
+            <p
+                class="hero-description"
+                data-i18n="heroDescription">
+
+                Tell us what ingredients you have,
+                and we'll help you find something
+                delicious to cook.
+
+            </p>
+
+
+            <a
+                href="#ingredients"
+                class="hero-button"
+                data-i18n="heroButton">
+
+                Find My Recipe ↓
+
+            </a>
+
+            <div class="hero-trust-row" aria-label="Recipe finder features">
+                <span>✦ <span data-i18n="heroTrustOne">15 hand-picked recipes</span></span>
+                <span>✦ <span data-i18n="heroTrustTwo">Cook with what you have</span></span>
+            </div>
+
+        </div>
+
+        <aside class="hero-preview" aria-label="Featured recipe preview">
+            <div class="preview-glow"></div>
+            <p class="preview-kicker" data-i18n="previewKicker">TONIGHT'S INSPIRATION</p>
+            <div class="preview-dish">
+                <span>🍛</span>
+            </div>
+            <p class="preview-match"><span>✦</span> <span data-i18n="previewMatch">Made for your kitchen</span></p>
+            <h2 data-i18n="previewTitle">Turn everyday ingredients into something delicious.</h2>
+            <div class="preview-details">
+                <span>⏱ 20 min</span>
+                <span>🍳 <span data-i18n="previewMethod">Any method</span></span>
+            </div>
+        </aside>
+
+        </div>
+
+    </section>
+
+
+    <!-- =========================
+         MAIN
+    ========================== -->
+
+    <main>
+
+
+        <!-- =========================
+             INGREDIENT SECTION
+        ========================== -->
+
+        <section
+            id="ingredients"
+            class="ingredients-section">
+
+
+            <div class="section-heading">
+
+                <p
+                    class="section-label"
+                    data-i18n="step1">
+                    STEP 1
+                </p>
+
+
+                <h2>
+                    <span data-i18n="ingredientTitle1">
+                        What ingredients
+                    </span>
+
+                    <br>
+
+                    <span data-i18n="ingredientTitle2">
+                        do you have?
+                    </span>
+                </h2>
+
+
+                <p
+                    data-i18n="ingredientDescription">
+
+                    Select all the ingredients
+                    you currently have.
+
+                </p>
+
+            </div>
+
+
+            <!-- Search -->
+
+            <div class="ingredient-search">
+
+                <input
+                    type="text"
+                    id="ingredientSearch"
+                    data-i18n-placeholder="searchPlaceholder"
+                    placeholder="Search ingredients..."
+                >
+
+            </div>
+
+
+            <!-- Ingredients -->
+
+            <div
+                id="ingredientList"
+                class="ingredient-list">
+            </div>
+
+
+            <!-- Selected -->
+
+            <div class="selected-area">
+
+                <div class="selected-heading">
+                    <h3 data-i18n="yourIngredients">
+                        Your ingredients
+                    </h3>
+                    <span id="selectionCount" class="selection-count" aria-live="polite">0 selected</span>
+                </div>
+
+
+                <div
+                    id="selectedIngredients"
+                    class="selected-ingredients">
+                </div>
+
+            </div>
+
+            <!-- Cooking Method -->
+
+            <div class="cooking-method-section">
+
+                <div class="section-heading cooking-method-heading">
+
+                    <p
+                        class="section-label"
+                        data-i18n="cookingMethodStep">
+                        STEP 2
+                    </p>
+
+                    <h3 data-i18n="cookingMethodTitle">
+                        How do you want to cook?
+                    </h3>
+
+                    <p data-i18n="cookingMethodDescription">
+                        Choose the cooking equipment you have.
+                    </p>
+
+                </div>
+
+
+                <div
+                    id="cookingMethodList"
+                    class="cooking-method-list">
+
+                    <button
+                        type="button"
+                        class="cooking-method-item active"
+                        data-method="all">
+
+                        <span class="method-icon">🍳</span>
+
+                        <span
+                            class="method-name"
+                            data-i18n="methodAny">
+                            Any Method
+                        </span>
+
+                    </button>
+
+
+                    <button
+                        type="button"
+                        class="cooking-method-item"
+                        data-method="air_fryer">
+
+                        <span class="method-icon">💨</span>
+
+                        <span
+                            class="method-name"
+                            data-i18n="methodAirFryer">
+                            Air Fryer
+                        </span>
+
+                    </button>
+
+
+                    <button
+                        type="button"
+                        class="cooking-method-item"
+                        data-method="frying_pan">
+
+                        <span class="method-icon">🍳</span>
+
+                        <span
+                            class="method-name"
+                            data-i18n="methodFryingPan">
+                            Frying Pan
+                        </span>
+
+                    </button>
+
+
+                    <button
+                        type="button"
+                        class="cooking-method-item"
+                        data-method="rice_cooker">
+
+                        <span class="method-icon">🍚</span>
+
+                        <span
+                            class="method-name"
+                            data-i18n="methodRiceCooker">
+                            Rice Cooker / Pot
+                        </span>
+
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <!-- Find Recipes -->
+
+            <button
+                id="findRecipesBtn"
+                class="find-button"
+                data-i18n="findRecipes">
+
+                🍳 Find Recipes
+
+            </button>
+
+        </section>
+
+
+        <!-- =========================
+             RECIPE SECTION
+        ========================== -->
+
+        <section
+            id="recipes"
+            class="recipes-section">
+
+
+            <div class="section-heading">
+
+                <p
+                    class="section-label"
+                    data-i18n="step3">
+                    STEP 2
+                </p>
+
+
+                <h2 data-i18n="recipeTitle">
+                    What can you cook?
+                </h2>
+
+                <span id="recipeCount" class="recipe-count" aria-live="polite"></span>
+
+
+                <p data-i18n="recipeDescription">
+
+                    Recipes that match the ingredients
+                    you selected.
+
+                </p>
+
+            </div>
+
+
+            <div
+                id="recipeResults"
+                class="recipe-results">
+
+
+                <div class="empty-state">
+
+                    <div class="empty-icon">
+                        🥘
+                    </div>
+
+
+                    <h3 data-i18n="emptyTitle">
+                        No recipes yet
+                    </h3>
+
+
+                    <p data-i18n="emptyDescription">
+
+                        Select some ingredients above
+                        to discover what you can cook.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- =========================
+         FOOTER
+    ========================== -->
+
+    <footer class="footer">
+
+        <p>
+            🍳 What Can I Cook?
+        </p>
+
+
+        <p data-i18n="footerText">
+
+            Made with HTML, CSS & JavaScript
+
+        </p>
+
+    </footer>
+
+
+    <script src="script.js?v=2"></script>
+
+</body>
+
+</html>
