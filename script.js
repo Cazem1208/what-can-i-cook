@@ -2804,28 +2804,43 @@ function renderRecipeModal(
 
 
                     ${
-                        methodVideoUrl
-                            ? `
-                                <a
-                                    href="${methodVideoUrl}"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    class="video-button">
+    recipe.video
+        ? `
+            <a
+                href="${recipe.video.url}"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="video-button">
 
-                                    ▶ ${videoText}
+                ▶ ${videoText}
 
-                                </a>
-                            `
-                            : `
-                                <p class="no-video">
-                                    ${
-                                        currentLanguage === "zh"
-                                            ? "暂无合适的视频，但完整的文字食谱已经提供。"
-                                            : "No suitable video is available, but the complete recipe is provided above."
-                                    }
-                                </p>
-                            `
-                    }
+            </a>
+        `
+        : recipe.cookingMethods &&
+          selectedCookingMethod !== "all" &&
+          recipe.cookingMethods[selectedCookingMethod] &&
+          recipe.cookingMethods[selectedCookingMethod].video
+        ? `
+            <a
+                href="${recipe.cookingMethods[selectedCookingMethod].video}"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="video-button">
+
+                ▶ ${videoText}
+
+            </a>
+        `
+        : `
+            <p class="no-video">
+                ${
+                    currentLanguage === "zh"
+                        ? "暂无合适的视频，但完整的文字食谱已经提供。"
+                        : "No suitable video is available, but the complete recipe is provided above."
+                }
+            </p>
+        `
+}
 
                 </div>
 
